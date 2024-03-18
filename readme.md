@@ -16,9 +16,7 @@ This app is designed to help people manage stress and improve focus through guid
 
 [VIDEO WALKTHROUGH LINK](https://youtu.be/g_wJBCUFXSw)
 
-- [expo](https://expo.dev/@joanfe/restive)
-- [iOS link](exp://u.expo.dev/update/a73a9bb3-3602-4d05-bf04-35a3a40208b7)
-- [android link](exp://u.expo.dev/update/6a36edf2-c9e1-4bdd-922d-c596c47ba0c1)
+[EXPO project](https://expo.dev/@joanfe/restive)
 
 ![image](https://github.com/JoAnFe/MobDev-Final/blob/main/restive/assets/Expo%20links/Screenshot%202024-03-18%20at%2008.13.10.png)
 ![build proof](https://github.com/JoAnFe/MobDev-Final/blob/main/restive/assets/Expo%20links/Screenshot%202024-03-18%20at%2007.51.16.png)
